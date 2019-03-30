@@ -82,3 +82,10 @@ form.onsubmit = function(e) {
   }
 }
 
+//Event Bubbling and Capture -- study from Mdn -- Nice Concept
+
+
+//it can be stopped by stopPropagation
+
+//study event delegation
+
